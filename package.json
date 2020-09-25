@@ -1,0 +1,16 @@
+{
+  "name": "om_wl_upserter",
+  "version": "0.0.1",
+  "description": "console app to upsert questions stages and answers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mythyde",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "request": "^2.88.2",
+    "uuid": "^7.0.3"
+  }
+}
